@@ -1,0 +1,58 @@
+{% assign skip_basics = 'profiles,location,image' | split: ',' %}
+
+<!-- 1) 먼저, image 값만 따로 추출해서 변수에 저장합니다. -->
+{% capture image_src %}
+{% for content in data[1] %}
+  {% if content[0] == 'image' and content[1] != "" %}
+    {{ content[1] }}
+  {% endif %}
+{% endfor %}
+{% endcapture %}
+
+<!-- 여기서 불필요한 공백, 줄바꿈 제거 -->
+{% assign image_src = image_src | strip_newlines | strip %}
+
+<!-- 2) Flexbox 레이아웃에 flex-wrap 적용 -->
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 1rem;">
+  <!-- 왼쪽 영역: 기본 정보(이름, 직함, 이메일 등)를 테이블로 표시 -->
+  <div style="flex: 1 1 300px;">
+    <table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+      {% for content in data[1] %}
+        {% capture key %}{{ content[0] }}{% endcapture %}
+        {% capture value %}{{ content[1] }}{% endcapture %}
+
+        {%
+          if (value == "") or (skip_basics contains key)
+        %}
+          {% continue %}
+        {% endif %}
+
+        <tr>
+          <td class="p-1 pr-2 font-weight-bold">
+            <b>{{ key | capitalize }}</b>
+          </td>
+          <td class="p-1 pl-2 font-weight-light text">
+            {% if key == 'url' %}
+              <a href="{{ value }}" target="_blank" rel="noopener noreferrer">{{ value }}</a>
+            {% elsif key == 'email' %}
+              <a href="mailto:{{ value }}" target="_blank">{{ value }}</a>
+            {% else %}
+              {{ value }}
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </table>
+  </div>
+
+  <!-- 오른쪽 영역: 이미지(프로필 사진) -->
+  <div style="flex: 1 1 150px;">
+    {% if image_src %}
+      <img
+        src="{{ image_src | prepend: 'assets/img/' | relative_url }}"
+        alt="Profile Photo"
+        style="max-width: 100%; height: auto;"
+      >
+    {% endif %}
+  </div>
+</div>

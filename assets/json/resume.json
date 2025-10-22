@@ -1,0 +1,142 @@
+{
+  "basics": {
+    "name": "Kyungtae Park",
+    "title": "Associated Professor",
+    "image": "profile.png",
+    "email": "ktpark@sm.ac.kr",
+    "phone": "(+82) 2-2077-7084",
+    "office": "Science Building, Room 452"
+  },
+  "work": [
+    {
+      "name": "Department of Chemical and Biological Engineering, Sookmyung Women's University",
+      "position": "Associate Professor",
+      "url": "https://chembioe.sookmyung.ac.kr/chembioe/index.do",
+      "startDate": "2018-09-01",
+      "endDate": "",
+      "summary": "Professional Journey: Positions, Roles, and Achievements",
+      "highlights": [
+        "2022.02-2024.01: Department Chair",
+        "2023: Award for excellent technology and knowledge transfer",
+        "2021-2023: Recognized for excellence in teaching evaluations",
+        "2018.09-2023.08: Assistant Professor"
+      ]
+    },
+    {
+      "name": "Energy Plant Group, Korea Institute of Industrial Technology",
+      "position": "Senior Researcher",
+      "url": "https://eng.kitech.re.kr/main/",
+      "startDate": "2015-07-13",
+      "endDate": "2018-08-31",
+      "summary": "Key Research Projects",
+      "highlights": [
+        "2018.05-2018.08: Process dynamic simulation and startup procedure development for MCFC-ORC system to improve fuel cell efficiency",
+        "2017.04-2018.08: Development of engineering package and empirical technology for mobile type small onshore LNG plant ",
+        "2016.04-2018.03: The FGSS system development project",
+        "2015.07-2017.05: Infrastructure development project for the Offshore Plant Equipment R&D Center"
+      ]
+    },
+    {
+      "name": "Plant Technology Department, GS E&C",
+      "position": "Functional Manager",
+      "url": "https://www.gsenc.com/",
+      "startDate": "2013-02-18",
+      "endDate": "2015-06-30",
+      "summary": "Key Research Projects",
+      "highlights": [
+        "2013.02-2015.06: 100 TPD LNG Test Bed No. 1 & 2 Projects (Pilot Plant)",
+        "2013.02-2015.06: LNG FEED Project (5 MPTA)",
+        "2013.02-2015.06: KOSMOS FLNG-FPSO Pre FEED Project (2.5 MPTA)"
+      ]
+    },
+    {
+      "name": "Process Engineering Department, Samsung E&A",
+      "position": "Process Engineer",
+      "url": "https://www.samsungena.com/kr/index",
+      "startDate": "2006-07-31",
+      "endDate": "2013-02-07",
+      "summary": "I worked as a process engineer in the Process Engineering Department and the Basic Engineering Department, where I was responsible for process simulation tasks across various projects.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Department of Chemical and Biological Engineering, Seoul National University",
+      "location": "Seoul, Korea",
+      "url": "https://cbe.snu.ac.kr/",
+      "area": "Process Systems Engineering",
+      "studyType": "Ph.D. in Chemical Engineering",
+      "startDate": "2008-09-01",
+      "endDate": "2012-08-31",
+      "advisor": "Advisor: Prof. En Sup Yoon",
+      "thesis": "Thesis: A Study on the Design Procedure for Efficient Flare System through Dynamic Analysis of Abnormal Condition"
+    },
+    {
+      "institution": "Department of Chemical and Biological Engineering, Seoul National University",
+      "location": "Seoul, Korea",
+      "url": "https://cbe.snu.ac.kr/",
+      "area": "Chemical and Biological Engineering",
+      "studyType": "B.S. in Chemical Engineering",
+      "startDate": "2000-03-01",
+      "endDate": "2006-08-31"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "The Process Systems Engineering Division Committee, KIChE",
+      "location": "Seoul, Korea",
+      "position": "Planning Secretary",
+      "url": "https://www.kiche.or.kr/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31"
+    },
+    {
+      "organization": "The Korean Institute of Chemical Engineers",
+      "location": "Seoul, Korea",
+      "position": "The 37th Council Member",
+      "url": "https://www.kiche.or.kr/",
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31"
+    },
+    {
+      "organization": "The Women's Comittee, KIChE",
+      "location": "Seoul, Korea",
+      "position": "Comitte Member",
+      "url": "https://www.kiche.or.kr/",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31"
+    },
+    {
+      "organization": "The Process Systems Engineering Division Committee, KSIEC",
+      "location": "Seoul, Korea",
+      "position": "Vice President",
+      "url": "https://www.ksiec.or.kr/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "organization": "The Process Systems Engineering Division Committee, KSIEC",
+      "location": "Seoul, Korea",
+      "position": "President",
+      "url": "https://www.ksiec.or.kr/",
+      "startDate": "2022-01-01",
+      "endDate": "2022-12-31"
+    },
+    {
+      "organization": "The Korean Society of Industrial Engineering Chemistry",
+      "location": "Seoul, Korea",
+      "position": "The 18th Council Member",
+      "url": "https://www.ksiec.or.kr/",
+      "startDate": "2024-01-01",
+      "endDate": ""
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": []
+}
