@@ -1,4 +1,4 @@
-**Name**   : Heywon Yang
+**Name**   : Hyewon Yang
 
 **Program**: Internship (2025.10 ~ Present)
 

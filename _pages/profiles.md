@@ -21,7 +21,7 @@ profiles:
     more_info: >
   - align: right
     image: Intern.jpg
-    content: HeywonYang.md
+    content: HyewonYang.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: right
