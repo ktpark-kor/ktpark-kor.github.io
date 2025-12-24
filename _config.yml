@@ -173,6 +173,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - skills-main/
   - vendor
 keep_files:
   - CNAME
@@ -207,6 +208,7 @@ defaults:
 
 sass:
   style: compressed
+  quiet_deps: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -277,7 +279,7 @@ scholar:
 enable_publication_badges:
   altmetric: false 
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: false
 
 # Filter out certain bibtex entry keywords used internally from the bib output
