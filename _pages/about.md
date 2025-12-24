@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="text-align: justify;">
+<div class="home-intro">
 The <span style="font-weight: bold;">Process Systems and Simulation Laboratory (PSSL)</span>, affiliated with the Department of Chemical and Biological Engineering at Sookmyung Women's University, specializes in <span style="font-weight: bold;">cutting-edge research on the design, optimization, and sustainability of chemical process systems</span>. The lab integrates <span style="font-weight: bold;">artificial intelligence and advanced simulation techniques</span> to develop innovative and environmentally responsible process solutions.
 <br> For more information about the advisor, please refer to the <a href='/cv/'> PI </a> section.
 <br> For more information about the lab members, please visit the <a href='/people/'> People </a> section.

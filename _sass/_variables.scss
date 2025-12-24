@@ -32,10 +32,25 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// Editorial palette (A안)
+$editorial-paper-color: #fbf7f0 !default;
+$editorial-paper-card-color: #fffdf8 !default;
+$editorial-ink-color: #1c1c1d !default;
+$editorial-ink-muted-color: #5f5a55 !default;
+$editorial-accent-color: #7a1c28 !default;
+$editorial-accent-hover-color: #9c2b3a !default;
+
+$editorial-night-bg-color: #131416 !default;
+$editorial-night-card-color: #1b1b20 !default;
+$editorial-night-ink-color: #f2ebe1 !default;
+$editorial-night-ink-muted-color: #b8aea4 !default;
+$editorial-night-accent-color: #c7a06d !default;
+$editorial-night-accent-hover-color: #e0bd86 !default;
+
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark: #2c3237 !default;
+$code-bg-color-light: rgba($editorial-accent-color, 0.055);
+$code-bg-color-dark: #1e1e23 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
