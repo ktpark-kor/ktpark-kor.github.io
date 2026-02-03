@@ -279,6 +279,14 @@ ul.task-list input[type="checkbox"] {
   font-size: 1.05rem;
 }
 
+// Publications page: avoid a "double rule" under the page title.
+// The page header already draws a divider; remove the first bibliography header top rule.
+.post > header.post-header + article > .publications > h2.bibliography:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 1rem;
+}
+
 .home-intro {
   max-width: 76ch;
   text-align: justify;
