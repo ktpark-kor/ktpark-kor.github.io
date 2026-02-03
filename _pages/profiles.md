@@ -13,20 +13,25 @@ profiles:
     image: Jieun.jpg
     content: JieunLee.md
     image_circular: true # crops the image to make it circular
-    more_info: > 
+    more_info: >
   - align: left
     image: JiminSeo.jpg
     content: JiminSeo.md
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: right
-    image: Intern.jpg
+    image: HyewonYang.jpg
     content: HyewonYang.md
     image_circular: true # crops the image to make it circular
     more_info: >
+  - align: left
+    image: YoonHyeLee.jpg
+    content: YoonHyeLee.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
   - align: right
-    image: 
+    image:
     content: Alumni.md
     image_circular: true # crops the image to make it circular
-    more_info: >  
+    more_info: >
 ---
