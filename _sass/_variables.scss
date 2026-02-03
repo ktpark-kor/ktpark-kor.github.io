@@ -33,10 +33,10 @@ $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Editorial palette (A안)
-$editorial-paper-color: #fbf7f0 !default;
-$editorial-paper-card-color: #fffdf8 !default;
+$editorial-paper-color: #f8fafc !default;
+$editorial-paper-card-color: #ffffff !default;
 $editorial-ink-color: #1c1c1d !default;
-$editorial-ink-muted-color: #5f5a55 !default;
+$editorial-ink-muted-color: #6b7280 !default;
 $editorial-accent-color: #7a1c28 !default;
 $editorial-accent-hover-color: #9c2b3a !default;
 
@@ -49,7 +49,7 @@ $editorial-night-accent-hover-color: #e0bd86 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($editorial-accent-color, 0.055);
+$code-bg-color-light: rgba($editorial-accent-color, 0.035);
 $code-bg-color-dark: #1e1e23 !default;
 
 // Font awesome location
