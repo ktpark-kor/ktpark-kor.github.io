@@ -1,8 +1,8 @@
 **Name**   : Hyewon Yang
 
-**Program**: Internship (2025.10 ~ Present)
+**Program**: Master's degree
 
-**Research Topic**:
+**Research Topic**: TBD
 
 **Publications**:
 
