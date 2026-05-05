@@ -2,7 +2,7 @@
 
 **Program**: Master's degree
 
-**Research Topic**: TBD
+**Research Topic**: <br>1. Electrochemical CO2 Conversion Processes
 
 **Publications**:
 
