@@ -26,7 +26,7 @@
 [1. Four-bed vacuum pressure swing adsorption for xenon recycling from semiconductor waste gas](https://doi.org/10.1016/j.seppur.2024.130477)<br>
 
 **▶ Jieun Lee (2024.03-2026.02)**<br>
-◦Current workplace: Incoming Ph.D. student at Georgia Institute of Technology<br>
+◦Current workplace: Ph.D. program at Georgia Institute of Technology<br>
 ◦Publications:<br>
 [1. 강화학습을 이용한 천연가스 액화 공정 최적화에 관한 연구(2025)](https://doi.org/10.9713/kcer.2025.63.1.50)<br>
 [2. Deep Reinforcement Learning‑Based Optimization Framework with Continuous Action Space for LNG Liquefaction Processes(2025)](https://doi.org/10.1007/s11814-025-00428-x)<br>
