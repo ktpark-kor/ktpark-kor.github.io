@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Process Systems and Simulation Laboratory (PSSL) Publications.
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- _pages/publications.md -->
