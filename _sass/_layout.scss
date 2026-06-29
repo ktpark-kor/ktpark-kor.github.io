@@ -53,6 +53,11 @@ body.sticky-bottom-footer {
   }
 }
 
+// 본문을 이미지 옆 컬럼에 고정 (긴 내용이 이미지 아래로 흘러내리지 않게)
+.profile + .clearfix {
+  display: flow-root;
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
