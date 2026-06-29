@@ -1,2 +1,6 @@
 # Force LF line endings, needed for Docker to work on Windows
 *.sh text eol=lf
+
+# Force LF for project SCSS we edit (prevents autocrlf line-ending churn)
+_sass/*.scss text eol=lf
+assets/css/*.scss text eol=lf
