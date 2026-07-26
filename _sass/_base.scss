@@ -232,6 +232,15 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+@media (max-width: 575px) {
+  .profile.float-left,
+  .profile.float-right {
+    float: none !important;
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
 @media (min-width: 576px) {
   .profile {
     width: 30%;
@@ -435,6 +444,20 @@ ul.task-list input[type="checkbox"] {
 
   .bottom-bar {
     transform: rotate(0);
+  }
+}
+
+@media (max-width: 575px) {
+  .navbar-brand.title {
+    min-width: 0;
+    max-width: calc(100% - 62px);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  .navbar-toggler {
+    flex-shrink: 0;
   }
 }
 
