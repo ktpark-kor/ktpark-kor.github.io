@@ -25,6 +25,11 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
   - align: right
+    image: MINSEOHONG.jpg
+    content: MinSeoHong.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+  - align: left
     image:
     content: Alumni.md
     image_circular: true # crops the image to make it circular

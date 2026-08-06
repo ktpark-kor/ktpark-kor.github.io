@@ -1,6 +1,6 @@
 **Name**   : Jimin Seo
 
-**Program**: Master's degree
+**Program**: Master's degree (2025.03 - 2027.02)
 
 **Research Topic**: <br>1. Sustainable Gas Hydrate Production Process
 <br>2. OCCS Processes
