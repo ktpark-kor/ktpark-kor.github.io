@@ -2,6 +2,8 @@
 
 **Program**: Master's degree (2025.03 - 2027.02)
 
+**Industry Placement**: Intern-to-Hire Program at HD Korea Shipbuilding & Offshore Engineering (2026.09 - 2026.12)
+
 **Research Topic**: <br>1. Sustainable Gas Hydrate Production Process
 <br>2. OCCS Processes
 
