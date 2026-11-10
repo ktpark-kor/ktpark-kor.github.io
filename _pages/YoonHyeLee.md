@@ -4,6 +4,6 @@
 
 **Research Topic**: <br>1. Process Optimization Using Local Large Language Models
 
-**Publications**:
+**Publications**: <br>1. [Recurring Lagged Predictor Families for Industrial SCR NOx Emissions: A Cross-Model Attribution Study](https://link.springer.com/article/10.1007/s11814-026-00873-2).
 
 **Location**: Science Building, Room 461
